@@ -18,6 +18,7 @@
             </div>
             <ul>
                 <li><a href="landingpage.php">Back to Site</a></li>
+                <li>TEST</li>
                 <li><a href="login.php">Logout</a></li>
             </ul>
         </nav>
